@@ -169,19 +169,6 @@ An immersive wellness companion blending conversational AI with spatial computin
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Shruti1724&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti1724&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shruti1724&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
----
-
 ### 🎓 Education
 
 | Degree | Institution | Score | Year |
@@ -194,17 +181,7 @@ An immersive wellness companion blending conversational AI with spatial computin
 
 ---
 
-### 📫 Let's Connect
-
 <div align="center">
-
-I'm always open to conversations on **applied ML, agentic systems, and data-driven product design.**
-Feel free to reach out — I reply fast and love a good technical tangent. ⚡
-
-[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-jaggi)
-[![Gmail](https://img.shields.io/badge/-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutijaggi0@gmail.com)
-
-<br/>
 
 <sub>⭐ From an idea to a deployed pipeline — thanks for stopping by!</sub>
 
