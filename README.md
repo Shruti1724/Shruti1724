@@ -22,7 +22,7 @@
 name:        Shruti Jaggi
 role:        Final-Year B.Tech CSE (AI/ML) Student @ PCCOE, Pune
 focus:       Applied Machine Learning · Data Science · Agentic AI Systems
-currently:   Incoming Agentic AI Intern @ ATX Labs, Pune
+currently:   Agentic AI Intern @ ATX Labs, Pune
 ```
 
 - 🔭 Building **production-grade ML systems** — from XGBoost classifiers with SHAP explainability to multilingual RAG pipelines
